@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS Frameworks and laravel**
 
-- 👨‍💻 All of my projects are available at [https://wayisapp.vercel.app/](https://wayisapp.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://wayisapp.vercel.app/" target="_blank">https://wayisapp.vercel.app/</a>
 
 - 💬 Ask me about **Web Design**
 
